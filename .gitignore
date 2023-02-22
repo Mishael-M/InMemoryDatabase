@@ -1,3 +1,6 @@
 # Ignore bin folder
 bin/
 .class
+
+# Ignore port folders
+[0-9]*
